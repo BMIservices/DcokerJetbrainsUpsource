@@ -1,4 +1,4 @@
-upsource FROM java:jre-alpine
+FROM java:jre-alpine
 MAINTAINER "Michel Buczynski" michel@service-bmi.com
 #Based on "Eugene Janusov" <esycat@gmail.com>
 
